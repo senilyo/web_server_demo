@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Client>
+    <client id="0001">
+        <name>Jery</name>
+        <sex>女</sex>
+        <number>1234</number>
+        <days>1</days>
+        <room>101</room>
+        <dateBegin>2019-4-3</dateBegin>
+        <dateEnd>2019-4-4</dateEnd>
+        <pay>300</pay>
+    </client>
+    <client id="0002">
+        <name>Lili</name>
+        <sex>女</sex>
+        <number>5678</number>
+        <days>2</days>
+        <room>102</room>
+        <dateBegin>2019-4-3</dateBegin>
+        <dateEnd>2019-4-5</dateEnd>
+        <pay>600</pay>
+    </client>
+    <client id="0003">
+        <name>ChaoCaho</name>
+        <sex>男</sex>
+        <number>7890</number>
+        <days>10</days>
+        <room>103</room>
+        <dateBegin>2019-4-3</dateBegin>
+        <dateEnd>2019-4-14</dateEnd>
+        <pay>3000</pay>
+    </client>
+</Client>
